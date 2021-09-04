@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimulateTouch</string>
+    <string name="accessibility_service_label">lable gu</string>
+    <string name="accessibility_service_description">access description</string>
+</resources>
